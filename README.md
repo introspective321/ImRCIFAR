@@ -3,3 +3,5 @@ This repository contains code and resources for a machine learning project focus
 The project aims to explore various traditional machine learning techniques for classifying images across ten distinct categories.
 
 [Link to Dataset](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
+
+Use CIFAR_Classification.ipynb for further implementation
