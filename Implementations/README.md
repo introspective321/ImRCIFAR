@@ -1,12 +1,17 @@
 ## Following machine learning methods are being implemented from scratch
 
-* Principle Component Analysis
-* Multiclass (Single Layer) Perceptron* **[Done]**
+* Dimensionality Reduction
+  * Principle Component Analysis
+  * Linear Discriminant Analysis
+* Perceptron
+  * Multiclass (Single Layer) Perceptron* **[Done]**
+  * Multilayer Perceptron**
+* Ensemble Based
+  * Random Forest**
 * K Nearest Neighbour**
-* Random Forest**
 * Logistic Regression (one-vs-all/softmax)*
 * Naive Bayes*
-* Multilayer Perceptron**
+* Support Vector Machine**
 --------------------------------
 *: Linear Decision Boundaries
 
