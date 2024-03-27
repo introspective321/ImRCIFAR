@@ -1,4 +1,4 @@
-## Following machine learning methods have been implemented from scratch
+## Following machine learning methods are being implemented from scratch
 
 * Principle Component Analysis
 * Multiclass (Single Layer) Perceptron*
