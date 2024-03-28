@@ -1,7 +1,7 @@
 # To the project members:
-- Use CIFAR_Classification.ipynb for further implementation
-- Push your implementation (Notebook) in the Experiment branch
-- Add the .py file of your code in the Implementations folder in main branch
+- Use [CIFAR_Classification.ipynb](https://github.com/introspective321/Image_Retrieval_CIFAR-10/blob/b8b786451a856c2c2e227c223d59cead0160d045/CIFAR_Classification.ipynb) for further implementation
+- Push your implementation (Notebook) in the [Experiment branch](https://github.com/introspective321/Image_Retrieval_CIFAR-10/tree/experiment)
+- Add the .py file of your code in the [Implementations folder](https://github.com/introspective321/Image_Retrieval_CIFAR-10/tree/b8b786451a856c2c2e227c223d59cead0160d045/Implementations) in main branch
 
 ## Image_Retrieval_CIFAR-10
 
