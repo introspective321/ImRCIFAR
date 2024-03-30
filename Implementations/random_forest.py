@@ -4,6 +4,7 @@ import random
 import multiprocessing as mp
 from sklearn.model_selection import train_test_split
 from sklearn import datasets
+from desicion_tree import DesicionTree
 
 class RandomForest:
     def __init__(self, n_trees=100, max_depth=10):
