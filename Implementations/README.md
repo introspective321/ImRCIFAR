@@ -7,11 +7,12 @@
   * Multiclass (Single Layer) Perceptron* **[Done]**
   * Multilayer Perceptron**
 * Ensemble Based
-  * Random Forest**
-* K Nearest Neighbour**
+  * Random Forest** **[Done]**
+* K Nearest Neighbour** **[Done]**
 * Logistic Regression (one-vs-all/softmax)*
-* Naive Bayes*
+* Naive Bayes* **[Done]**
 * Support Vector Machine**
+--------------------------------
 --------------------------------
 *: Linear Decision Boundaries
 
