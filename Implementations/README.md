@@ -1,7 +1,7 @@
 ## Following machine learning methods are being implemented from scratch
 
 * Dimensionality Reduction
-  * Principle Component Analysis
+  * Principle Component Analysis **[Done]**
   * Linear Discriminant Analysis
 * Perceptron
   * Multiclass (Single Layer) Perceptron* **[Done]**
