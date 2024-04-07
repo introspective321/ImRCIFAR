@@ -6,11 +6,11 @@
 * Perceptron
   * Multiclass (Single Layer) Perceptron* **[Done]**
   * Multilayer Perceptron**
-* Ensemble Based
-  * Random Forest** **[Done]**
+* Ensemble Learning** **[Done]**
 * K Nearest Neighbour** **[Done]**
-* Logistic Regression (one-vs-all/softmax)*
 * Naive Bayes* **[Done]**
+* Logistic Regression (one-vs-all/softmax)*
+* K-Means Clustering**
 * Support Vector Machine**
 --------------------------------
 --------------------------------
