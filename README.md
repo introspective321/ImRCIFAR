@@ -1,12 +1,23 @@
-# To the project members:
-- Use [CIFAR_Classification.ipynb](https://github.com/introspective321/Image_Retrieval_CIFAR-10/blob/b8b786451a856c2c2e227c223d59cead0160d045/CIFAR_Classification.ipynb) for further implementation
-- Push your implementation (Notebook) in the [Experiment branch](https://github.com/introspective321/Image_Retrieval_CIFAR-10/tree/experiment)
-- Add the .py file of your code in the [Implementations folder](https://github.com/introspective321/Image_Retrieval_CIFAR-10/tree/b8b786451a856c2c2e227c223d59cead0160d045/Implementations) in main branch
+## ImRCIFAR: image Retrieval with CIFAR-10 Dataset
 
-## Image_Retrieval_CIFAR-10
+ImRCIFAR is a course* project focused on image classification using the CIFAR-10 dataset. The project aims to explore various traditional machine learning techniques for classifying images across ten distinct categories.
 
-This repository contains code and resources for a machine learning project focused on image classification using the CIFAR-10 dataset.
-The project aims to explore various traditional machine learning techniques for classifying images across ten distinct categories.
+**(CSL2050: PRML, Spring '24, IIT Jodhpur)*
+
+## Introduction
+The dataset (CIFAR-10) consists of 60000 (32x32) colour images across 10 distinct classes, each class containing 6000 images. The goal is to analyze and apply classical machine learning algorithms to accurately classify these images followed by a retrieval.
 
 
 ![Alt text](https://github.com/introspective321/Image_Retrieval_CIFAR-10/blob/10949d984f107714adabb08b8cac360486e946e9/CIFAR10.png "10 Classes of CIFAR-10")
+
+## Objectives
+- Implement and compare various machine learning techniques, preferably from scratch.
+- Evaluate the performances of different algorithms followed by a thorough analysis and choose the best one.
+- Providing insights into the strengths and weakness of the approaches tried.
+- Performing a failure-case-analysis.
+
+## Project Structure
+-  [Implementations](Implementations): Contains the from-scratch implementations of techniques implemented.
+-  [assets](assets): Stores additional resources such as images, pre-trained model weights, etc.
+-  [requirements.txt](requirements.txt): Project dependencies.
+-  [Results](Results): Stores output files, logs, metrics, etc.
