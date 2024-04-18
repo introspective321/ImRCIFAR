@@ -10,8 +10,8 @@
 * K Nearest Neighbour** **[Done]**
 * Naive Bayes* **[Done]**
 * Logistic Regression (one-vs-all/softmax)*
-* K-Means Clustering**
-* Support Vector Machine**
+* K-Means Clustering** **[Done]**
+* Support Vector Machine** **[Done]**
 --------------------------------
 --------------------------------
 *: Linear Decision Boundaries
