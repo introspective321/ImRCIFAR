@@ -2,15 +2,14 @@
 
 * Dimensionality Reduction
   * Principle Component Analysis **[Done]**
-  * Linear Discriminant Analysis
+  * K-Means Clustering Compression** **[Done]**
 * Perceptron
   * Multiclass (Single Layer) Perceptron* **[Done]**
-  * Multilayer Perceptron**
+  * Multilayer Perceptron** **[Done]**
 * Ensemble Learning** **[Done]**
 * K Nearest Neighbour** **[Done]**
 * Naive Bayes* **[Done]**
-* Logistic Regression (one-vs-all/softmax)*
-* K-Means Clustering** **[Done]**
+* Logistic Regression (one-vs-all)* **[Done]**
 * Support Vector Machine** **[Done]**
 --------------------------------
 --------------------------------
