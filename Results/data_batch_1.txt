@@ -1,0 +1,10 @@
+<class 'dict'>
+--------------------------
+dict_keys(['batch_label', 'labels', 'data', 'filenames'])
+--------------------------
+batch_label <class 'str'>
+labels <class 'list'>
+data <class 'numpy.ndarray'>
+filenames <class 'list'>
+--------------------------
+Labels: {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
