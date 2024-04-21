@@ -1,1 +1,10 @@
 The website source code can be obtained from - https://github.com/aatifahmad123/nextjs-image-retrieval
+
+The project webisite tech bundle:
+
+Build Framework - NextJS
+CSS Framework - Tailwind
+Deployment - Vercel, Netlify
+
+Vercel - https://nextjs-image-retrieval.vercel.app/
+Netlify - https://6624899e26144c5ba013cebd--loquacious-nougat-676256.netlify.app/
