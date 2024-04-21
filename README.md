@@ -1,6 +1,10 @@
-[Link to the Spotlight Video](https://youtu.be/T_H_3v0PhAY)
+[Spotlight Video](https://youtu.be/T_H_3v0PhAY)
 
 [Final_Report](https://github.com/introspective321/ImRCIFAR/blob/eca1cce427a24da6d688f13f3564125b65595083/Report_Group_1.pdf)
+
+[Project Notebook](https://github.com/introspective321/ImRCIFAR/blob/2b85a025119b155b7ddee89d8057634fa83f773b/CIFAR_Classification.ipynb)
+
+[Demo Code](https://github.com/introspective321/ImRCIFAR/blob/2b85a025119b155b7ddee89d8057634fa83f773b/Implementations/Demo-Code.ipynb)
 ## ImRCIFAR: image Retrieval with CIFAR-10 Dataset
 
 ImRCIFAR is a course* project focused on image classification using the CIFAR-10 dataset. The project aims to explore various traditional machine learning techniques for classifying images across ten distinct categories.
