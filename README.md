@@ -1,3 +1,5 @@
+[Link to the Spotlight Video](https://youtu.be/T_H_3v0PhAY)
+[Final_Report]()
 ## ImRCIFAR: image Retrieval with CIFAR-10 Dataset
 
 ImRCIFAR is a course* project focused on image classification using the CIFAR-10 dataset. The project aims to explore various traditional machine learning techniques for classifying images across ten distinct categories.
